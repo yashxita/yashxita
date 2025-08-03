@@ -13,9 +13,7 @@
 <br>
 
 ###
-<div align="center">
-  <img src="assets/git.png" alt="Git Logo" />
-</div>  
+
 
 ## 📊 GitHub Stats
 <div align="center">
