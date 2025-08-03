@@ -1,17 +1,24 @@
 <h1 align="center">Hi 👋, I'm Yashita Puri</h1>
 <h3 align="center">A passionate CSE (InfoSec) student, Web Developer & Tech Enthusiast from India</h3>
 
-💫 **About Me**
-- 🎓 B.Tech CSE (Information Security) @ VIT Vellore (CGPA 9.78)
-- 🔭 Currently interning at **Zidio Web Development** and trained at **DRDO DLJ (Cybersecurity)**
-- 🌱 Exploring Agentic AI, MERN Stack, and frontend engineering
-- 🥇 Winner of Fresher's Lawn Tennis Tournament 🏆
-- 👯 Open to collaborating on **frontend projects, hackathons, and security tools**
-- 🥅 2025 Goals: Build impactful AI-driven applications & contribute to open-source security projects
+## 💫 About Me
+- 🎓 B.Tech CSE (Information Security) @ VIT Vellore — **First Rank**, CGPA **9.83**
+- 🛠️ Currently a **GSSoC '25 Contributor** and **Co-Secretary @ CodeChef-VIT**
+- ⚔️ Experienced in cybersecurity: memory forensics, system hardening, and endpoint security
+- 🌐 Skilled in **React**, **Next.js**, **Tailwind**, **TypeScript**, **Node.js**, **TensorFlow**, **OpenCV**
+- 🧠 Exploring **Generative AI**, **Agentic Systems**, and **Fullstack Engineering**
+- 🚀 Built 5+ projects and mentored 70+ juniors; co-hosted tech events with 1500+ participants
+- 🥇 Amazon Hackathon Finalist | Created **CineAI**, an AI movie recommender
+- 👯 Open to collaborating on **AI, frontend, and cybersecurity projects**
+- 🥅 2025 Goals: Build impactful AI tools, contribute to open-source cybersecurity, and publish a research paper
+
 
 <h4 align="center">"Code, Create, Secure – Repeat." 🚀</h4>
-<br>
 
+
+<div align="center">
+  <img src="assets/git.png" alt="Git Logo" />
+</div>  
 ###
 
 
