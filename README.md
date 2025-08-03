@@ -16,7 +16,9 @@
 <h4 align="center">"Code, Create, Secure – Repeat." 🚀</h4>
 
  
-
+<div align="center">
+  <img src="assets/git.png" alt="Git Logo" />
+</div>
 
 
 ## 📊 GitHub Stats
