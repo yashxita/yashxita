@@ -17,9 +17,9 @@
 
 
 <div align="center">
-  <img src="assets/git.png" alt="Git Logo" />
+  <img src="assets/g.png" alt="Git Logo" />
 </div>  
-###
+
 
 
 ## 📊 GitHub Stats
