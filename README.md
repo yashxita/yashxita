@@ -14,8 +14,8 @@
 
 ###
 <div align="center">
-  <img src="https://profile-counter.glitch.me/yashxita/count.svg?" />
-</div>      
+  <img src="assets/git.png" alt="Git Logo" />
+</div>  
 
 ## 📊 GitHub Stats
 <div align="center">
