@@ -66,6 +66,11 @@
 </p>
 
 ---
+### 
+<div>
+  <img src="https://raw.githubusercontent.com/premkolte/premkolte/output/snake.svg" alt="Snake animation" />
+  
+</div>
 
 <div align="center">
   <h3>⭐ Show some ❤️ by starring some of my repositories!</h3>
