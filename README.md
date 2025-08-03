@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yashita Puri</h1>
+<h1 align="center">Hi 👋 , I'm Yashita Puri</h1>
 <h3 align="center">A passionate CSE (InfoSec) student, Web Developer & Tech Enthusiast from India</h3>
 
 ## 💫 About Me
